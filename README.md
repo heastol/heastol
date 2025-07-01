@@ -22,17 +22,21 @@
 
 ## Using Languages
 <p align='left'>
+    <img width="40" height="40" src="https://img.icons8.com/color/40/html-5--v1.png" alt="html-5--v1"/>
+    <img width="40" height="40" src="https://img.icons8.com/color/40/css3.png" alt="css3"/>
     <img height="40" src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" title="Python">
     <img height="40" src="https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000" title="Java">
     <img width="40" height="40" src="https://img.icons8.com/color/48/kotlin.png" alt="kotlin" title="Kotlin">
     <img height="40" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" title="Javascript">
-    <img width="40" height="40" src="https://img.icons8.com/nolan/64/oracle-logo.png" alt="oracle-logo" title="Oracle">
 </p>
 
 ## Using Technics
 <p align='left'>
   <img height="40" src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" title="Spring Boot">  
   <img width="40" height="40" src="https://img.icons8.com/fluency/48/docker.png" alt="docker" title="Docker">
+  <img width="40" height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-     color- tal-revivo"/>
+  <img width="40" height="40" src="https://img.icons8.com/nolan/64/oracle-logo.png" alt="oracle-logo" title="Oracle">
+  <img width="40" height="40" src="https://img.icons8.com/fluency/40/mysql-logo.png" alt="mysql-logo"/>
   <!-- 
   <img height="40" src="https://img.icons8.com/?size=100&id=O6SWwpPIM0GB&format=png&color=000000" title="PyTorch">  
   -->
