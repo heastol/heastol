@@ -57,7 +57,7 @@
 
 ## Project List
 - [Website] [Personal Portfolio site](https://heastol.github.io/portfolio)
-- [Project] [http://bjava.iptime.org:8893]
+- [Project] [밤길 안전 서비스](http://bjava.iptime.org:8893/)
 - [Python] [Python강의 프로젝트](https://github.com/heastol/python_ho)
 - [Spring Boot] [SpringBoot](https://github.com/heastol/java-springboot-2025)
 
