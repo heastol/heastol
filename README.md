@@ -7,14 +7,12 @@
 ## Profile
 - `Name` : 이동호
 - `Email` : ehdgh06@naver.com
-- 🔭 I'm currently working as an **IoT instructor**
-  - Major : C#, Smart Factory, IoT Development
-  - Minor : Python, Java, Web Dev(Spring Boot, ASP.NET, etc)
+- 🔭 I'm currently **studying Java** as a student
  
 ## GitHub Stat and Languages
 <!-- username은 본인걸로 -->
 <p align='center'>
-  <a href="https://github.com/hugoMGSung">
+  <a href="https://github.com/heastol">
     <img src="https://github-readme-stats.vercel.app/api?username=hugoMGSung&theme=tokyonight&show_icons=true"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoMGSung&theme=tokyonight&layout=compact"/>
   </a>
